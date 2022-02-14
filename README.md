@@ -206,10 +206,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Angelines Yaport-Garcia - [@LinkedIn](https://www.linkedin.com/in/angelines-yaport-garcia) - yaportgarciaa@gmail.com
+Angelines Yaport-Garcia - [LinkedIn](https://www.linkedin.com/in/angelines-yaport-garcia) - yaportgarciaa@gmail.com <br />
 Non-Technical Writing Portfolio - [AngelinesPortfolio](https://angelinesyg.wixsite.com/writingportfolio)
 
-Markdown Collection Project Link: [https://github.com/AngelinesYG/MarkdownCollection](https://github.com/AngelinesYG/MarkdownCollection)
+Markdown Collection Project Link: [AngelinesYG - Markdown Collection](https://github.com/AngelinesYG/MarkdownCollection)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -235,4 +235,4 @@ Markdown Collection Project Link: [https://github.com/AngelinesYG/MarkdownCollec
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-Created using - [Drew Othniel](https://github.com/othneildrew/Best-README-Template)
+Created using - [Drew Othniel's README-template](https://github.com/othneildrew/Best-README-Template)
