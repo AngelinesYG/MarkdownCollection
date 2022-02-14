@@ -206,8 +206,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Angelines Yaport-Garcia - [LinkedIn](https://www.linkedin.com/in/angelines-yaport-garcia) - yaportgarciaa@gmail.com <br />
-Non-Technical Writing Portfolio - [AngelinesPortfolio](https://angelinesyg.wixsite.com/writingportfolio)
+Angelines Yaport-Garcia - [LinkedIn](https://www.linkedin.com/in/angelines-yaport-garcia) - [Email](yaportgarciaa@gmail.com) <br />
+Non-Technical Writing Portfolio - [Angelines' Writing Portfolio](https://angelinesyg.wixsite.com/writingportfolio)
 
 Markdown Collection Project Link: [AngelinesYG - Markdown Collection](https://github.com/AngelinesYG/MarkdownCollection)
 
