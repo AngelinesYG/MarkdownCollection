@@ -83,7 +83,7 @@
 ## About The Project
 <!-- ![My Screenshot](images/myScreenshot.png) -->
 <a href="https://github.com/AngelinesYG/MarkdownCollection">
-    <img src="./images/myScreenshot.png">
+    <img src="images/myScreenshot.png">
   </a>
 
 This project repo is a collection of Markdowns I've written for personal projects, open source projects, and volunteer projects. 
