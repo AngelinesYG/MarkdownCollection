@@ -97,6 +97,10 @@ After graduating with a Bachelors in Writing Arts, I worked in administration an
 
 In writing about technologies not only do I get to learn more about the field I am in, but I also get to work with developers in creating better, consice, and clear life-changing applications and programs for companies and people in need. It has been, by far, the best decision I have ever made. Not only do I finally love what I do and wake up excited to get to work, but I also get to learn more, grow, and evolve; just as technology does every day. 
 
+## Viewing Markdowns
+
+To view each individual Markdown piece, simply click on the name of the .md file you wish to view. 
+
 ### Built With
 
 This Mardown project was built using simple Markdown style and a template from [Drew Othniel](https://github.com/othneildrew/Best-README-Template).
@@ -116,11 +120,13 @@ This Mardown project was built using simple Markdown style and a template from [
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To create youw own copy of this repo, simply cloan this repo.
+If you wish to create a copy of this repo, simply cloan it by copying the ssh [code](git@github.com:AngelinesYG/MarkdownCollection.git), and then writing the following comand on your terminal: 
+```bash 
+git clone "ssh code here"
+```  
 
 ### Prerequisites
-
-None
+There are none. Already having git for version control installed on your computer is the only prerequisite. 
 <!-- This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
