@@ -99,7 +99,7 @@ In writing about technologies not only do I get to learn more about the field I 
 
 ## Viewing Markdowns
 
-To view each individual Markdown piece, simply click on the name of the .md file you wish to view. 
+To view each individual Markdown piece, simply click on the name of the `.md` file you wish to view. 
 
 ### Built With
 
