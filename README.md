@@ -84,12 +84,17 @@
 <!-- ![My Screenshot](images/myScreenshot.png) -->
 <a href="https://github.com/AngelinesYG/MarkdownCollection">
     <img src="images/myScreenshot.png">
-  </a>
+  </a> <br />
 
 This project repo is a collection of Markdowns I've written for personal projects, open source projects, and volunteer projects. 
 
 In this repo you will find different Markdowns written for the very specific diferent projects I've worked on and will also contine to add more Markdown files as more opportunities for writing become available. 
+## About Me 
+I am a proud mom of boys turned Technical Writer/Software Engineer. 
 
+After graduating with a Bachelors in Writing Arts, I worked in administration and education fields for years, I was able to do some writing and a lot of translating documents, but I was not finding myself being challenged enough or really enjoying what I was doing. This led me to think of careers in tech that may invole writing. I was introduced to a Software Engineering workshop during my search, and when I saw the posibilities, and the fact that it was somehow similar to writing, I immediately pivoted and enrolled in a Bootcamp. During my job search I learned of Technical Writing; a field I didn't know existed. I dreamt of being a writer since very young, so this was like finding gold to me. I refocused my search and my learning towards Technical Writing and have quickly found my passion for writing to have revived and taken a new meaning. 
+
+In writing about technologies not only do I get to learn more about the field I am in, but I also get to work with developers in creating better, consice, and clear life-changing applications and programs for companies and people in need. It has been, by far, the best decision I have ever made. Not only do I finally love what I do and wake up excited to get to work, but I also get to learn more, grow, and evolve; just as technology does every day. 
 
 ### Built With
 
