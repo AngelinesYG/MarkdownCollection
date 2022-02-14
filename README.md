@@ -88,7 +88,8 @@
 
 This project repo is a collection of Markdowns I've written for personal projects, open source projects, and volunteer projects. 
 
-In this repo you will find different Markdowns written for the very specific diferent projects I've worked on and will also contine to add more Markdown files as more opportunities for writing become available. 
+In this repo you will find different Markdowns, written for the diferent projects I've worked on. I will also contine to add more Markdown files as more opportunities for writing become available. 
+
 ## About Me 
 I am a proud mom of boys turned Technical Writer/Software Engineer. 
 
