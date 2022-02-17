@@ -213,7 +213,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Angelines Yaport-Garcia - [LinkedIn](https://www.linkedin.com/in/angelines-yaport-garcia) - [Email](https://mail.google.com/yaportgarciaa@gmail.com) <br />
+Angelines Yaport-Garcia - [LinkedIn](https://www.linkedin.com/in/angelines-yaport-garcia) - [Email](mailto:yaportgarciaa@gmail.com) <br />
 Non-Technical Writing Portfolio - [Angelines' Writing Portfolio](https://angelinesyg.wixsite.com/writingportfolio)
 
 Markdown Collection Project Link: [AngelinesYG - Markdown Collection](https://github.com/AngelinesYG/MarkdownCollection)
